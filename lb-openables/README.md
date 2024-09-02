@@ -2,7 +2,9 @@
 
 **QB-Core**
 
-I've seen many differnt scripts for gift boxes, cigarettes, and ammo boxes. So why not one that does them all. This script will allow you to create any item that can be opened into any amount of configurable items and the amount received per item. 
+I've seen many differnt scripts for gift boxes, cigarettes, and ammo boxes. So why not one that does them all and more.
+
+This script will allow you to create any item that can be opened into any amount of configurable items and the amount received per item. 
 
 ## Items 
 
